@@ -33,7 +33,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.3"
+    "version": "6.1.6.0"
   },
   {
     "author": "Linkolas",
@@ -42,46 +42,10 @@
     "version": null
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.6.5"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.2.4.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -108,26 +72,8 @@
     "version": null
   },
   {
-    "author": "Comigo Games",
-    "name": "Comigo's Majestic Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Stuffed Floors",
-    "steamId": "853043503",
-    "version": "2.13.92"
-  },
-  {
     "author": "Unon",
     "name": "No Burn Metal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
     "steamId": null,
     "version": null
   },
@@ -140,24 +86,6 @@
   {
     "author": "Neceros",
     "name": "Bulk Smelting",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -196,6 +124,12 @@
     "name": "Dubs Break Mod",
     "steamId": "1722398508",
     "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "PorqueNoLosDos",
@@ -282,6 +216,12 @@
     "version": "1.0.3"
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -300,7 +240,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Jexa",
+    "author": "Fuglypump and Neceros",
     "name": "Bulk Stonecutting",
     "steamId": null,
     "version": null

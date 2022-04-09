@@ -14,8 +14,7 @@
     "name": "Refresh viewers",
     "usage": "!refreshviewers",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "RefreshViewers"
+    "shortcut": false
   },
   {
     "data": {
@@ -32,8 +31,7 @@
     "name": "Karma round",
     "usage": "!karmaround",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "KarmaRound"
+    "shortcut": false
   },
   {
     "data": {
@@ -50,8 +48,7 @@
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveAllCoins"
+    "shortcut": false
   },
   {
     "data": {
@@ -68,8 +65,7 @@
     "name": "Give coins",
     "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveCoins"
+    "shortcut": false
   },
   {
     "data": {
@@ -86,8 +82,7 @@
     "name": "Check user",
     "usage": "!checkuser <viewer>",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "CheckUser"
+    "shortcut": false
   },
   {
     "data": {
@@ -104,8 +99,7 @@
     "name": "Set karma",
     "usage": "!setkarma <viewer> <karma>",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "SetKarma"
+    "shortcut": false
   },
   {
     "data": {
@@ -122,8 +116,7 @@
     "name": "Toggle coins",
     "usage": "!togglecoins",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleCoins"
+    "shortcut": false
   },
   {
     "data": {
@@ -140,8 +133,7 @@
     "name": "Check balance",
     "usage": "!bal",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "CheckBalance"
+    "shortcut": false
   },
   {
     "data": {
@@ -158,8 +150,7 @@
     "name": "Karma explanation",
     "usage": "!whatiskarma",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "WhatIsKarma"
+    "shortcut": false
   },
   {
     "data": {
@@ -176,8 +167,7 @@
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PurchaseList"
+    "shortcut": false
   },
   {
     "data": {
@@ -194,8 +184,7 @@
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinQueue"
+    "shortcut": false
   },
   {
     "data": {
@@ -212,8 +201,7 @@
     "name": "Mod info",
     "usage": "!modinfo",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModInfo"
+    "shortcut": false
   },
   {
     "data": {
@@ -230,8 +218,7 @@
     "name": "Buy",
     "usage": "!buy",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Buy"
+    "shortcut": false
   },
   {
     "data": {
@@ -248,8 +235,7 @@
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "LevelSkillShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -266,8 +252,7 @@
     "name": "Mod settings",
     "usage": "!modsettings",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModSettings"
+    "shortcut": false
   },
   {
     "data": {
@@ -284,8 +269,7 @@
     "name": "Instructions",
     "usage": "!instructions",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Instructions"
+    "shortcut": false
   },
   {
     "data": {
@@ -302,8 +286,7 @@
     "name": "All commands",
     "usage": "!allcommands",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AvailableCommands"
+    "shortcut": false
   },
   {
     "data": {
@@ -320,8 +303,7 @@
     "name": "Installed mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "InstalledMods"
+    "shortcut": false
   },
   {
     "data": {
@@ -338,8 +320,7 @@
     "name": "Revive all",
     "usage": "!reviveall",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAllShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -356,8 +337,7 @@
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveMeShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -374,8 +354,7 @@
     "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealMeShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -392,8 +371,7 @@
     "name": "Healall",
     "usage": "!healall",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAllShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -410,8 +388,7 @@
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "PassionShuffleShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -428,8 +405,7 @@
     "name": "Surgery",
     "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "SurgeryShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -446,8 +422,7 @@
     "name": "Add trait",
     "usage": "!trait",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "TraitShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -464,8 +439,7 @@
     "name": "Remove trait",
     "usage": "!removetrait",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RemoveTraitShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -482,8 +456,7 @@
     "name": "Revive any pawn",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAnyPawnShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -500,8 +473,7 @@
     "name": "Heal any pawn",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAnyPawnShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -518,8 +490,7 @@
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReplaceTraitShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -536,8 +507,7 @@
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "BackpackShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -554,8 +524,7 @@
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RemovePassionShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -572,8 +541,7 @@
     "name": "Add passion",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "AddPassionShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -590,8 +558,7 @@
     "name": "Full heal",
     "usage": "!fullheal",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "FullHealShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -608,8 +575,7 @@
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RescueMeShortcut"
+    "shortcut": true
   },
   {
     "data": {
@@ -626,8 +592,7 @@
     "name": "Viewer kill count",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnKills"
+    "shortcut": false
   },
   {
     "data": {
@@ -644,8 +609,7 @@
     "name": "Viewer stats",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnStats"
+    "shortcut": false
   },
   {
     "data": {
@@ -662,8 +626,7 @@
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnHealth"
+    "shortcut": false
   },
   {
     "data": {
@@ -680,8 +643,7 @@
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnNeeds"
+    "shortcut": false
   },
   {
     "data": {
@@ -698,8 +660,7 @@
     "name": "Viewer gear",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnGear"
+    "shortcut": false
   },
   {
     "data": {
@@ -716,8 +677,7 @@
     "name": "Viewer body",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnBody"
+    "shortcut": false
   },
   {
     "data": {
@@ -734,8 +694,7 @@
     "name": "Viewer work",
     "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnWork"
+    "shortcut": false
   },
   {
     "data": {
@@ -752,8 +711,7 @@
     "name": "Viewer story",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnStory"
+    "shortcut": false
   },
   {
     "data": {
@@ -770,8 +728,7 @@
     "name": "Viewer skills",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnSkills"
+    "shortcut": false
   },
   {
     "data": {
@@ -788,8 +745,7 @@
     "name": "Fix viewer pawn",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "FixMyPawn"
+    "shortcut": false
   },
   {
     "data": {
@@ -806,8 +762,7 @@
     "name": "Fix all pawns",
     "usage": "!fixallpawns",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "FixAllPawns"
+    "shortcut": false
   },
   {
     "data": {
@@ -824,8 +779,7 @@
     "name": "Abandon pawn",
     "usage": "!leave",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbandonPawn"
+    "shortcut": false
   },
   {
     "data": {
@@ -842,8 +796,7 @@
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PawnRelations"
+    "shortcut": false
   },
   {
     "data": {
@@ -860,8 +813,7 @@
     "name": "Factions",
     "usage": "!factions",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Factions"
+    "shortcut": false
   },
   {
     "data": {
@@ -878,8 +830,7 @@
     "name": "Research",
     "usage": "!research [project/item]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Research"
+    "shortcut": false
   },
   {
     "data": {
@@ -896,8 +847,7 @@
     "name": "Lookup",
     "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Lookup"
+    "shortcut": false
   },
   {
     "data": {
@@ -914,8 +864,7 @@
     "name": "Price check",
     "usage": "!price <item/category> [query]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PriceCheck"
+    "shortcut": false
   },
   {
     "data": {
@@ -932,8 +881,7 @@
     "name": "Unstick",
     "usage": "!unstick",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "UnstickAll"
+    "shortcut": false
   },
   {
     "data": {
@@ -950,8 +898,7 @@
     "name": "Toggle store",
     "usage": "!togglestore",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleStore"
+    "shortcut": false
   },
   {
     "data": {
@@ -964,66 +911,11 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
+    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
     "usage": "!insult [target]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Insult"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
-    "name": "Chat",
-    "usage": "!chat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Chat"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
-    "name": "Flirt",
-    "usage": "!flirt [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Flirt"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
-    "name": "Deep chat",
-    "usage": "!deepchat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DeepChat"
+    "shortcut": false
   },
   {
     "data": {
@@ -1040,8 +932,7 @@
     "name": "Colony wealth",
     "usage": "!wealth",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Wealth"
+    "shortcut": false
   },
   {
     "data": {
@@ -1058,8 +949,7 @@
     "name": "Colonist count",
     "usage": "!colonists",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ColonistCount"
+    "shortcut": false
   },
   {
     "data": {
@@ -1076,8 +966,7 @@
     "name": "Database",
     "usage": "!rwdata <category/weaponname> [weaponname]",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "RimDatabase"
+    "shortcut": false
   },
   {
     "data": {
@@ -1094,8 +983,7 @@
     "name": "Unstick me",
     "usage": "!imstuck",
     "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "UnstickMe"
+    "shortcut": false
   },
   {
     "data": {
@@ -1112,7 +1000,6 @@
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
+    "shortcut": false
   }
 ]
