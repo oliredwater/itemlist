@@ -20,13 +20,13 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 88,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": 200,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -38,49 +38,49 @@
 	},
 	{
 		"abr": "flake",
-		"price": 23,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
 	{
 		"abr": "psychitetea",
-		"price": 17,
+		"price": 75,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
 	{
 		"abr": "yayo",
-		"price": 35,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": 18,
+		"price": 10,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
 	{
 		"abr": "wake-up",
-		"price": 58,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 3667,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 3667,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 3667,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -164,43 +164,43 @@
 	},
 	{
 		"abr": "prostheticleg",
-		"price": 433,
+		"price": 400,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
 	},
 	{
 		"abr": "prostheticarm",
-		"price": 433,
+		"price": 350,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "prostheticheart",
-		"price": 383,
+		"price": 350,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 367,
+		"price": 350,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant"
 	},
 	{
 		"abr": "powerclaw",
-		"price": 642,
+		"price": 500,
 		"category": "Prosthetic",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "joywire",
-		"price": 367,
+		"price": 350,
 		"category": "Prosthetic",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "painstopper",
-		"price": 367,
+		"price": 350,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -224,13 +224,13 @@
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1967,
+		"price": 1337,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
 	{
 		"abr": "bed",
-		"price": 155,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "royalbed",
-		"price": 1467,
+		"price": 1500,
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
@@ -254,7 +254,7 @@
 	},
 	{
 		"abr": "bedroll",
-		"price": 137,
+		"price": 135,
 		"category": "Furniture",
 		"defname": "Bedroll"
 	},
@@ -416,7 +416,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": 1500,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -476,7 +476,7 @@
 	},
 	{
 		"abr": "glowpod",
-		"price": 83,
+		"price": 100,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
@@ -746,19 +746,19 @@
 	},
 	{
 		"abr": "lavishmeal",
-		"price": 67,
+		"price": 50,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
 	{
 		"abr": "vegetarianlavishmeal",
-		"price": 67,
+		"price": 50,
 		"category": "Meals",
 		"defname": "MealLavish_Veg"
 	},
 	{
 		"abr": "carnivorelavishmeal",
-		"price": 67,
+		"price": 50,
 		"category": "Meals",
 		"defname": "MealLavish_Meat"
 	},
@@ -800,49 +800,49 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": 1200,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 33,
+		"price": 3300,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": 4200,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": 3800,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": 320,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": 3000,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": 3800,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": 1800,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -854,7 +854,7 @@
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": 1200,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
@@ -866,7 +866,7 @@
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": 1800,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -884,7 +884,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": 75,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -926,7 +926,7 @@
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "RawFungus"
 	},
@@ -1028,7 +1028,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 3,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"abr": "humanleather",
-		"price": 7,
+		"price": 70,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
@@ -1286,7 +1286,7 @@
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 1058,
+		"price": 1000,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
@@ -1394,13 +1394,13 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": 3300,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "reconarmor",
-		"price": 2567,
+		"price": 2500,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon"
 	},
@@ -2042,7 +2042,7 @@
 	},
 	{
 		"abr": "multi-mini-jluggerturret",
-		"price": 3208,
+		"price": 3285,
 		"category": "Security",
 		"defname": "Turret_MiniMultiJluggerTurret"
 	},
@@ -2090,13 +2090,13 @@
 	},
 	{
 		"abr": "mini-turret5x",
-		"price": 1192,
+		"price": 1002,
 		"category": "Security",
 		"defname": "Turret_MiniTurretFive"
 	},
 	{
 		"abr": "cool-turret",
-		"price": 525,
+		"price": 500,
 		"category": "Security",
 		"defname": "Turret_CoolTurret"
 	},
@@ -2108,7 +2108,7 @@
 	},
 	{
 		"abr": "cool-turret5x",
-		"price": 1358,
+		"price": 1200,
 		"category": "Security",
 		"defname": "Turret_CoolTurretFive"
 	},
@@ -2174,37 +2174,37 @@
 	},
 	{
 		"abr": "bumbledroneegg(fert.)",
-		"price": 10,
+		"price": 1000,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BumbledroneQueenEggFertilized"
 	},
 	{
 		"abr": "wildpodsporeclump(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_WildpodSpores"
 	},
 	{
 		"abr": "agaripodsporeclump(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AgaripodSpores"
 	},
 	{
 		"abr": "mycoidcolossussporeclump(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MycoidColossusSpores"
 	},
 	{
 		"abr": "wildpawnsporeclump(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_WildpawnSpores"
 	},
 	{
 		"abr": "agaripawnsporeclump(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AgaripawnSpores"
 	},
@@ -2216,7 +2216,7 @@
 	},
 	{
 		"abr": "ironhuskbeetleegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_IronhuskEggFertilized"
 	},
@@ -2228,7 +2228,7 @@
 	},
 	{
 		"abr": "mammothwormegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MammothWormEggFertilized"
 	},
@@ -2240,7 +2240,7 @@
 	},
 	{
 		"abr": "crepuscularbeetleegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_CrepuscularBeetleEggFertilized"
 	},
@@ -2252,7 +2252,7 @@
 	},
 	{
 		"abr": "greatdevoureregg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_GreatDevourerEggFertilized"
 	},
@@ -2264,25 +2264,25 @@
 	},
 	{
 		"abr": "megalouseegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MegalouseEggFertilized"
 	},
 	{
 		"abr": "bedbugegg(unfert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_BedBugEggUnfertilized"
 	},
 	{
 		"abr": "bedbugegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BedBugEggFertilized"
 	},
 	{
 		"abr": "animaliskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AnimaliskEggFertilized"
 	},
@@ -2294,13 +2294,13 @@
 	},
 	{
 		"abr": "feraliskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FeraliskEggFertilized"
 	},
 	{
 		"abr": "chargedferaliskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FeraliskSuperEggFertilized"
 	},
@@ -2312,13 +2312,13 @@
 	},
 	{
 		"abr": "dunealiskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DunealiskEggFertilized"
 	},
 	{
 		"abr": "chargeddunealiskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DunealiskSuperEggFertilized"
 	},
@@ -2330,13 +2330,13 @@
 	},
 	{
 		"abr": "blizzariskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BlizzariskEggFertilized"
 	},
 	{
 		"abr": "chargedblizzariskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BlizzariskSuperEggFertilized"
 	},
@@ -2348,7 +2348,7 @@
 	},
 	{
 		"abr": "jungleliskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_JungleliskEggFertilized"
 	},
@@ -2360,67 +2360,67 @@
 	},
 	{
 		"abr": "cinderliskegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_CinderliskEggFertilized"
 	},
 	{
 		"abr": "nightlingegg(fert.)",
-		"price": 167,
+		"price": 1670,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggNightlingFertilized"
 	},
 	{
 		"abr": "meadowaveegg(fert.)",
-		"price": 32,
+		"price": 3200,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggMeadowAveFertilized"
 	},
 	{
 		"abr": "desertaveegg(fert.)",
-		"price": 32,
+		"price": 3200,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggDesertAveFertilized"
 	},
 	{
 		"abr": "nightaveegg(fert.)",
-		"price": 58,
+		"price": 5800,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggNightAveFertilized"
 	},
 	{
 		"abr": "royalaveegg(fert.)",
-		"price": 225,
+		"price": 2250,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggRoyalAveFertilized"
 	},
 	{
 		"abr": "rough-platedmonitoregg(fert.)",
-		"price": 17,
+		"price": 1700,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggRoughPlatedMonitorFertilized"
 	},
 	{
 		"abr": "atispecegg(fert.)",
-		"price": 1,
+		"price": 1000,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AtispecEggFertilized"
 	},
 	{
 		"abr": "angelmothegg(fert.)",
-		"price": 1,
+		"price": 1000,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AngelMothEggFertilized"
 	},
 	{
 		"abr": "draineregg(fert.)",
-		"price": 1,
+		"price": 1000,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DrainerEggFertilized"
 	},
 	{
 		"abr": "firewaspegg(fert.)",
-		"price": 12,
+		"price": 1200,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FireWaspEggFertilized"
 	},
@@ -2432,25 +2432,25 @@
 	},
 	{
 		"abr": "flamingophoenixegg(fert.)",
-		"price": 17,
+		"price": 1700,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggFlamingoPhoenixFertilized"
 	},
 	{
 		"abr": "crescendoanoleegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggCrescendoAnoleFertilized"
 	},
 	{
 		"abr": "pedigreedraptoregg(fert.)",
-		"price": 75,
+		"price": 7500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggPedigreedRaptorFertilized"
 	},
 	{
 		"abr": "empressbutterflyegg(fert.)",
-		"price": 1,
+		"price": 1000,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EmpressButterflyEggFertilized"
 	},
@@ -2462,7 +2462,7 @@
 	},
 	{
 		"abr": "giantcrownedsilkieegg(fert.)",
-		"price": 15,
+		"price": 1500,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggGiantCrownedSilkieFertilized"
 	},
@@ -2480,7 +2480,7 @@
 	},
 	{
 		"abr": "rawredslime",
-		"price": 1,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AB_RawRedSlime"
 	},
@@ -2534,7 +2534,7 @@
 	},
 	{
 		"abr": "skysteel",
-		"price": 8,
+		"price": 6,
 		"category": "Raw resources",
 		"defname": "AA_SkySteel"
 	},
@@ -2570,7 +2570,7 @@
 	},
 	{
 		"abr": "fermentedrottingmound",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AA_RottingMoundItem"
 	},
@@ -2732,7 +2732,7 @@
 	},
 	{
 		"abr": "angelmothlarva",
-		"price": 25,
+		"price": 250,
 		"category": "Animals",
 		"defname": "AA_AngelMothLarva"
 	},
@@ -3470,25 +3470,25 @@
 	},
 	{
 		"abr": "diamond",
-		"price": 83,
+		"price": 20,
 		"category": "Gemstones",
 		"defname": "Z_Diamond"
 	},
 	{
 		"abr": "emerald",
-		"price": 60,
+		"price": 20,
 		"category": "Gemstones",
 		"defname": "Z_Emerald"
 	},
 	{
 		"abr": "ruby",
-		"price": 60,
+		"price": 20,
 		"category": "Gemstones",
 		"defname": "Z_Ruby"
 	},
 	{
 		"abr": "sapphire",
-		"price": 60,
+		"price": 20,
 		"category": "Gemstones",
 		"defname": "Z_Sapphire"
 	},
@@ -3524,7 +3524,7 @@
 	},
 	{
 		"abr": "quartz",
-		"price": 3,
+		"price": 1,
 		"category": "Gemstones",
 		"defname": "Z_Quartz"
 	},
@@ -4064,7 +4064,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 50,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -4514,13 +4514,13 @@
 	},
 	{
 		"abr": "marineboots",
-		"price": 733,
+		"price": 700,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_MarineBoots"
 	},
 	{
 		"abr": "marinegloves",
-		"price": 733,
+		"price": 700,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_MarineGloves"
 	},
@@ -4550,7 +4550,7 @@
 	},
 	{
 		"abr": "plateboots",
-		"price": 207,
+		"price": 200,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_PlateBoots"
 	},
@@ -4622,13 +4622,13 @@
 	},
 	{
 		"abr": "siegebreakerarmor",
-		"price": 5367,
+		"price": 5000,
 		"category": "Armor",
 		"defname": "VAE_Apparel_HeavyMarineArmor"
 	},
 	{
 		"abr": "siegebreakerhelmet",
-		"price": 1233,
+		"price": 1200,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HeavyMarineHelmet"
 	},
@@ -4676,7 +4676,7 @@
 	},
 	{
 		"abr": "trooperarmor",
-		"price": 1917,
+		"price": 1800,
 		"category": "Armor",
 		"defname": "VAE_Apparel_TrooperArmor"
 	},
