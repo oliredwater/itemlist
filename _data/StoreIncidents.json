@@ -76,11 +76,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -236,11 +231,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -312,7 +302,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -322,7 +312,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -371,15 +361,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 73
 }
